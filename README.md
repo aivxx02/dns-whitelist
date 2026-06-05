@@ -33,5 +33,3 @@ api.service.local
 
 🟡 Changes sync after Pi-hole's **Gravity Update**  
 ⏱️ Manual update: Admin → Tools → Update Gravity
-
----
