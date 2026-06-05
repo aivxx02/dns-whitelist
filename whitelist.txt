@@ -1,1 +1,2 @@
-
+connectivitycheck.gstatic.com
+connectivitycheck.googleapis.com
